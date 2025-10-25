@@ -1,16 +1,16 @@
-# Blackthorn Mystery Solver 🕵️‍♂️
+# Blackthorn Mystery Solver 
 
 An immersive detective deduction visual novel that uses NLP and AI-driven responses for interactive interrogations, evidence reasoning, and dynamic narrative flow.
 
 ---
 
-## 🎯 Vision
+##  Vision
 
 Blackthorn Mystery Solver demonstrates how NLP and AI can transform traditional visual novels from linear, static experiences into dynamic, real-life-like deduction adventures, letting players reason like a true detective.
 
 ---
 
-## 🕹️ Features
+##  Features
 
 - Dynamic story progression driven by your dialogue and choices
 - NLP-powered conversations with suspects and witnesses
@@ -20,7 +20,7 @@ Blackthorn Mystery Solver demonstrates how NLP and AI can transform traditional 
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - Backend & AI: Python, Flask, Sentence-Transformers (spaCy/NLTK optional)
 - Game Engine: Ren’Py (recommended) or PyGame
@@ -29,7 +29,7 @@ Blackthorn Mystery Solver demonstrates how NLP and AI can transform traditional 
 
 ---
 
-## 📦 Architecture
+##  Architecture
 
 - Game client (Ren’Py): DetectiveGame/
 - NLP microservice (Flask + Sentence-Transformers): nlp_service/
@@ -48,7 +48,7 @@ Key files:
 
 ---
 
-## ⚡ Quick Start
+##  Quick Start
 
 ```bash
 # 1) Clone
@@ -129,7 +129,7 @@ Game-side constants (Evidence system):
 
 ---
 
-## 🔌 NLP API
+##  NLP API
 
 Base URL: http://127.0.0.1:5000
 
@@ -178,7 +178,7 @@ Base URL: http://127.0.0.1:5000
 
 ---
 
-## 🧠 In-Game NLP Integration
+##  In-Game NLP Integration
 
 Evidence matching (DetectiveGame/game/clues/evidence_system.rpy):
 - 3-stage validation in check_evidence_input:
@@ -196,7 +196,7 @@ Interrogation (DetectiveGame/game/story/interrogation.rpy):
 
 ---
 
-## 🧪 Testing
+##  Testing
 
 - Unit tests (service): add tests under nlp_service/tests/
 - Manual checks:
@@ -205,7 +205,7 @@ Interrogation (DetectiveGame/game/story/interrogation.rpy):
 
 ---
 
-## 🚀 Deployment (NLP Service)
+##  Deployment (NLP Service)
 
 Render.com example (nlp_service/.render.yaml):
 
@@ -225,7 +225,7 @@ Procfile: nlp_service/Procfile
 
 ---
 
-## 🧩 Extending
+##  Extending
 
 - Add evidence synonyms:
   - Update EVIDENCE_SYNONYMS in DetectiveGame/game/clues/evidence_system.rpy
@@ -236,7 +236,7 @@ Procfile: nlp_service/Procfile
 
 ---
 
-## 🛠️ Troubleshooting
+##  Troubleshooting
 
 - Evidence matching fails:
   - Ensure NLP service is running at 127.0.0.1:5000
@@ -250,9 +250,9 @@ Procfile: nlp_service/Procfile
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
-We’d love your help in making **Blackthorn Mystery Solver** even better!  
+I’d love your help in making **Blackthorn Mystery Solver** even better!  
 
 - **Report bugs:** Open an issue with a clear description or screenshots.  
 - **Suggest features:** Share ideas to improve gameplay, AI interactions, or story.  
@@ -265,7 +265,7 @@ Thanks for helping make the game more engaging for everyone!
 
 ---
 
-## 📄 License
+##  License
 
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for full details.  
 You’re free to use, modify, and share the code as long as the original copyright and license are included.
@@ -276,6 +276,6 @@ You’re free to use, modify, and share the code as long as the original copyrig
 
 - **Developer:** Apekshya Sharma  
 - **GitHub:** [https://github.com/apekshyasharma](https://github.com/apekshyasharma)  
-- **Email (optional):** apekshyasharma2308@gmail.com  
+- **Email:** apekshyasharma2308@gmail.com  
 
 Feel free to reach out with questions, feedback, or ideas for the game!
