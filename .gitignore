@@ -35,6 +35,7 @@
 /dialogue.txt
 /strings.json
 /nlp_service.log
+nlp_service/environment.yml
 
 __pycache__/
 *.pyc
