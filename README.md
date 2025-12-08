@@ -22,16 +22,30 @@ Blackthorn Mystery Solver demonstrates how NLP and AI can transform traditional 
 ---
 
 ## Evidence Collection (AI-driven NLP in action)
-<p float="left"> <img src="screenshots/evidence_model_action.png" width="48%"/> <img src="screenshots/evidence_model_in_action.png" width="48%"/>float="left"> <img src="screenshots/evidence_model_action.png" width="48%"/> <img src="screenshots/evidence_model_in_action2.png" width="48%"/> </p>
+<p float="left">
+  <img src="screenshots/character1.png" width="30%"/>
+  <img src="screenshots/character2.png" width="30%"/>
+  <img src="screenshots/character3.png" width="30%"/>
+</p>
+
+<p float="left">
+  <img src="screenshots/character4.png" width="30%"/>
+  <img src="screenshots/character5.png" width="30%"/>
+</p>
 
 ## Updated Evidence book with NLP matching
-<p float="left"> <img src="screenshots/evidence_model_action.png" width="48%"/> <img src="screenshots/evidence_book.png" width="48%"/> </p>
+<p float="left">
+  <img src="screenshots/evidence_model_in_action.png" width="48%"/>
+  <img src="screenshots/evidence_model_in_action2.png" width="48%"/>
+  <img src="screenshots/evidence_book.png" width="48%"/>
+</p>
 
 ---
 ## Suspect Interrogation (AI-DRIVEN NLP in action)
-<p float="left"> <img src="screenshots/interrogation_ai_in_action.png" width="70%"/> </p>
-<p float="left"> <img src="screenshots/interrogation_answer_in_action.png" width="70%"/> </p>
-
+<p float="left">
+  <img src="screenshots/interrogation_ai_in_action.png" width="70%"/>
+    <img src="screenshots/interrogation_answer_in_action.png" width="70%"/>
+</p>
 
 ##  Tech Stack
 
