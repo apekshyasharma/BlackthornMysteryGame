@@ -5,14 +5,14 @@ An immersive detective deduction visual novel that uses NLP and AI-driven respon
 ---
 ## Characters
 <p float="left">
-  <img src="screenshots/character1.png" width="30%"/>
-  <img src="screenshots/character2.png" width="30%"/>
-  <img src="screenshots/character3.png" width="30%"/>
+  <img src="screenshots/character1_intro.png" width="30%"/>
+  <img src="screenshots/character2_intro.png" width="30%"/>
+  <img src="screenshots/character3_intro.png" width="30%"/>
 </p>
 
 <p float="left">
-  <img src="screenshots/character4.png" width="30%"/>
-  <img src="screenshots/character5.png" width="30%"/>
+  <img src="screenshots/character4_intro.png" width="30%"/>
+  <img src="screenshots/character5_intro.png" width="30%"/>
 </p>
 
 ##  Vision
