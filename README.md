@@ -92,7 +92,7 @@ python nlp_service.py
 
 ---
 
-## 🧩 Installation (detailed)
+## Installation 
 
 NLP service (Python 3.10+):
 
@@ -136,7 +136,7 @@ Tip: Keep the NLP service running at 127.0.0.1:5000.
 
 ---
 
-## ⚙️ Configuration
+##  Configuration
 
 NLP service (environment variables):
 
@@ -297,7 +297,7 @@ You’re free to use, modify, and share the code as long as the original copyrig
 
 ---
 
-## 📞 Contact
+## Contact
 
 - **Developer:** Apekshya Sharma  
 - **GitHub:** [https://github.com/apekshyasharma](https://github.com/apekshyasharma)  
